@@ -1,0 +1,67 @@
+File Manifest for ICPSR 29401
+
+Sutton-Tyrrell, Kim, Faith Selzer, MaryFran, R. (Mary Frances Roy) Sowers,
+Robert Neer, Lynda Powell, Ellen B. Gold, Gail Greendale, Gerson Weiss,
+Karen A. Matthews, and Sonja McKinlay. Study of Women's Health Across the
+Nation (SWAN): Visit 02 Dataset, [United States], 1998-2000. ICPSR29401-v4.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2019-05-02. http://doi.org/10.3886/ICPSR29401.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29401-descriptioncitation.pdf       -       -         -       2019-05-02  -
+
+    29401-related_literature.txt        -       -         -       daily       -
+
+    29401-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN): Visit 02 Dataset,
+[United States], 1998-2000
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29401-0001-Codebook-ICPSR.pdf       -       -         -       2019-05-02  4431a7c32ddc42acf3d6d321f0001861
+
+    29401-0001-Codebook-PI.pdf          -       -         -       2019-05-02  26fdf3b528b89e0ef75556962defdeac
+
+    29401-0001-Data.dta                 -       2,748     551     2019-05-02  8e53d1bd5d41d3680ee7c9f38488bb25
+
+    29401-0001-Data.rda                 -       2,748     551     2019-05-02  e096a3a3fbdae510a194ef39acd44f05
+
+    29401-0001-Data.sav                 -       2,748     551     2019-05-02  85c4ca3612d0ff549d904219a46ca280
+
+    29401-0001-Data.stc                 -       2,748     551     2019-05-02  464ee904e03a7651827fed8713537335
+
+    29401-0001-Data.tsv                 -       2,748     551     2019-05-02  e76f6944bd9f20ab9d068b60ce5d7c98
+
+    29401-0001-Data.txt                 1641    2,748     551     2019-05-02  0b7d4e1d01a7e9092a1fab7c05f38da0
+
+    29401-0001-Documentation-SWAN_Publications.pdf -       -         -       2019-05-02  06ecebfc8263ddf1fa621aa48210aeab
+
+    29401-0001-Setup.dct                -       -         -       2019-05-02  492687471a1fd248ae05ae4cb26a48fb
+
+    29401-0001-Setup.do                 -       -         -       2019-05-02  3006e3e16ee106c4c843a0510627a384
+
+    29401-0001-Setup.sas                -       -         -       2019-05-02  86dbbf32e35ad492c0f4b73e8bdd614b
+
+    29401-0001-Setup.sps                -       -         -       2019-05-02  5da62da8c34525fb504ef15115e26c11
+
+    29401-0001-Supplemental_syntax.do   -       -         -       2019-05-02  061affd07be92848cb1eb015e15d2dfc
+
+    29401-0001-Supplemental_syntax.sas  -       -         -       2019-05-02  3a44d67fe12989b787dacf8aa306b5c7
+
+
+Version History
+
+2019-05-02 Has been updated to increase usability, including adding
+question text to documentation and online analysis tools.  2018-08-23 The
+data was updated to adjust missing values.  2014-02-06 This data collection
+is now publicly available.
