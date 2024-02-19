@@ -1,0 +1,95 @@
+File Manifest for ICPSR 28762
+
+Sutton-Tyrrell, Kim, Faith Selzer, MaryFran, R. (Mary Frances Roy) Sowers,
+Robert Neer, Lynda Powell, Ellen B. Gold, Gail Greendale, Gerson Weiss,
+Karen A. Matthews, and Sonja McKinlay. Study of Women's Health Across the
+Nation (SWAN): Baseline Dataset, [United States], 1996-1997. ICPSR28762-v5.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2019-05-15. http://doi.org/10.3886/ICPSR28762.v5
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28762-descriptioncitation.pdf       -       -         -       2019-05-15  -
+
+    28762-related_literature.txt        -       -         -       daily       -
+
+    28762-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN): Baseline Dataset,
+[United States], 1996-1997
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28762-0001-Codebook-ICPSR.pdf       -       -         -       2019-05-15  ba1e7a8caaf4c13c231ca0ed11f5f2b9
+
+    28762-0001-Codebook-PI.pdf          -       -         -       2019-05-15  ce182a81f3d0e65d736ddfc66e174421
+
+    28762-0001-Data.dta                 -       3,302     741     2019-05-15  dd47dbb1ae5879713d81cb2271244b1a
+
+    28762-0001-Data.rda                 -       3,302     741     2019-05-15  4f02136387299b4f5753013064c4c173
+
+    28762-0001-Data.sav                 -       3,302     741     2019-05-15  9e1a9b97ad754109cedf896eaa2d79fa
+
+    28762-0001-Data.stc                 -       3,302     741     2019-05-15  ee2296600be13cddf34f672ce3dbd921
+
+    28762-0001-Data.tsv                 -       3,302     741     2019-05-15  66fd09b83e74e25992cf13e6eb23a6d8
+
+    28762-0001-Data.txt                 2517    3,302     741     2019-05-15  81f7c700433c97dd256c155c727cdf68
+
+    28762-0001-Documentation-SWAN_Publications.pdf -       -         -       2019-05-15  da54ceaec35b6d7ed01de95f47c94519
+
+    28762-0001-Setup.dct                -       -         -       2019-05-15  ff866d3493505d2f69cb0ec3f41cca0a
+
+    28762-0001-Setup.do                 -       -         -       2019-05-15  fe901936b7c34c6d57d2dbfd7f3b46c9
+
+    28762-0001-Setup.sas                -       -         -       2019-05-15  b49b1e2b1ec8d9c72a47f2530b79f8be
+
+    28762-0001-Setup.sps                -       -         -       2019-05-15  088a1df49bb8da23ada84f4b1abe98ee
+
+    28762-0001-Supplemental_syntax.do   -       -         -       2019-05-15  1cc9d3b4ce247cb87e24628355dc1308
+
+    28762-0001-Supplemental_syntax.sas  -       -         -       2019-05-15  e73ef00e611e71559bf8f3deb9bf2089
+
+
+Version History
+
+2019-05-15 This data collection has been enhanced in the following ways.
+The title of the study was updated to match current ICPSR standards.
+Variable labels have been revised to spell out abbreviations and acronyms,
+and to correct prior misspellings. The variables in the dataset have also
+been reordered to match the documentation provided by the Principal
+Investigator. A fuller version of the question text pertaining to
+individual variables was completed, and now available in the ICPSR
+codebook. An additional document was included in this release that lists
+all the publications based off of the SWAN data series. Lastly, the study
+is now available for online analysis.  2018-08-09 <p>A variable describing
+the race of participants (RACE) was added from the Screener dataset.</p>
+<p>The race/ethnicity of one participant was originally mislabeled and has
+now been corrected. Race fields now read Caucasian, not Black, for this
+participant.</p> <p>Variables STATUS0 and LMPDAY0 has been updated from
+another source that evaluated the menopause status related variables over
+time and corrected inconsistencies.</p> <p>For the Self-Administered
+Questionnaire Part A: The variable OVERHLT0 was renamed to HLTHAYR0 to
+correspond with the same variable asked at later visits. The variable
+FEARFUL0 was renamed to FEARFULA0 so there is no longer a duplication with
+a different questionnaire item.</p> <p>For the Self-Administered
+Questionnaire Part B: Completion dates were corrected for 6 participants.
+The variable PREGNAN0 was renamed GETPREG0 so there is no longer a
+duplication with a different questionnaire item. The variable TIRED0 was
+renamed to NOTIRED0 so there is no longer duplication with a different
+questionnaire item. 34 cases were removed as their entire questionnaire was
+left blank or refused all items.</p> <p>Lower limit of detection ranges
+were updated in the Serum Hormone Measures variables.</p> <p>Spine bone
+mineral density measures changed for 51 participants.</p> <p>Missing values
+have been adjusted from alphanumeric characters to negative numbers.</p>
+2014-02-04 This data collection is now publicly available.  2011-01-06 The
+data for two variables within this dataset, SHBG0 and FSH0, have been
+corrected so that the proper values are now present within the dataset.
