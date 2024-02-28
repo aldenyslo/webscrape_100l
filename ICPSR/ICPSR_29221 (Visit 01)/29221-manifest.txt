@@ -1,0 +1,67 @@
+File Manifest for ICPSR 29221
+
+Sutton-Tyrrell, Kim, Faith Selzer, MaryFran, R. (Mary Frances Roy) Sowers,
+Robert Neer, Lynda Powell, Ellen B. Gold, Gail Greendale, Gerson Weiss,
+Karen A. Matthews, and Sonja McKinlay. Study of Women's Health Across the
+Nation (SWAN): Visit 01 Dataset, [United States], 1997-1999. ICPSR29221-v3.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2019-05-02. http://doi.org/10.3886/ICPSR29221.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29221-descriptioncitation.pdf       -       -         -       2019-05-02  -
+
+    29221-related_literature.txt        -       -         -       daily       -
+
+    29221-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN): Visit 01 Dataset,
+[United States], 1997-1999
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    29221-0001-Codebook-ICPSR.pdf       -       -         -       2019-05-02  9ab5fbdb7e045e6b43c6acc11c2c7458
+
+    29221-0001-Codebook-PI.pdf          -       -         -       2019-05-02  30baa65cd4640d4320a1ad5ea936f7bd
+
+    29221-0001-Data.dta                 -       2,881     576     2019-05-02  41af97316840307e286d5f145e63b5d8
+
+    29221-0001-Data.rda                 -       2,881     576     2019-05-02  26d64af90e4c077ee5647d16afa84ab8
+
+    29221-0001-Data.sav                 -       2,881     576     2019-05-02  21354e15632e657953598afc9e566cd8
+
+    29221-0001-Data.stc                 -       2,881     576     2019-05-02  40b95341c717b2f0af0c3faa7580513f
+
+    29221-0001-Data.tsv                 -       2,881     576     2019-05-02  ac536ff9deba222850e1fd56c265f09a
+
+    29221-0001-Data.txt                 1776    2,881     576     2019-05-02  0ab3a3225f72112441d3a976a181bdcc
+
+    29221-0001-Documentation-publications.pdf -       -         -       2019-05-02  ea76c919575de82808140465302ed3d0
+
+    29221-0001-Setup.dct                -       -         -       2019-05-02  e5b7b3b89bb8048e2350a3f55ac04f40
+
+    29221-0001-Setup.do                 -       -         -       2019-05-02  ffc5931bedfc88b99ee1c99c1b7d0bd6
+
+    29221-0001-Setup.sas                -       -         -       2019-05-02  f3fb26d3754b58652ff7c623b949b6fa
+
+    29221-0001-Setup.sps                -       -         -       2019-05-02  f377beddcdd803659e381b40182fdab0
+
+    29221-0001-Supplemental_syntax.do   -       -         -       2019-05-02  fe8575717805d14b2ec52a6ac472ed78
+
+    29221-0001-Supplemental_syntax.sas  -       -         -       2019-05-02  0e1b114287a73709e1fabf40a61a1c91
+
+
+Version History
+
+2019-05-02 <p>Survey Documentation and Analysis (SDA) version was created
+allowing  users to analyze data.  Added publication documentation.</p>
+2018-08-09 The data was updated to adjust missing values.  2014-02-05 This
+data collection is now publicly available.

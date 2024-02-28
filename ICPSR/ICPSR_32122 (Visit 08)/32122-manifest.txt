@@ -1,0 +1,63 @@
+File Manifest for ICPSR 32122
+
+Sutton-Tyrell, Kim, Faith Selzer, MaryFran R. (Mary Francis Roy) Sowers,
+Joel Finkelstein, Lynda Powell, Ellen Gold, Gail Greendale, Gerson Weiss,
+Karen Matthews, and Maria Mori Brooks. Study of Women's Health Across the
+Nation (SWAN), 2004-2006: Visit 08 Dataset. ICPSR32122-v2. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2018-11-20. http://doi.org/10.3886/ICPSR32122.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32122-descriptioncitation.pdf       -       -         -       2018-11-20  -
+
+    32122-related_literature.txt        -       -         -       daily       -
+
+    32122-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN), 2004-2006: Visit
+08 Dataset
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32122-0001-Codebook-ICPSR.pdf       -       -         -       2018-11-20  9ea48cfe6a821730d6318dfed84f5e27
+
+    32122-0001-Codebook.pdf             -       -         -       2018-11-20  61743a5ee0e695c3621f53934c9d4dd6
+
+    32122-0001-Data.dta                 -       2,278     1055    2018-11-20  588cf74f83ea74b2c43679e6ec64f1e3
+
+    32122-0001-Data.rda                 -       2,278     1055    2018-11-20  3b5968c4e5bfecfcc271d2363282c6a3
+
+    32122-0001-Data.sav                 -       2,278     1055    2018-11-20  68366dce0d2d53fa26679864cdc3931e
+
+    32122-0001-Data.stc                 -       2,278     1055    2018-11-20  630301cd3675bfa3f9a84dff0df57e6b
+
+    32122-0001-Data.tsv                 -       2,278     1055    2018-11-20  09a2b298599b29d5d32af095674b5d4e
+
+    32122-0001-Data.txt                 4124    2,278     1055    2018-11-20  9eb313a88543f40e86635d4736102c12
+
+    32122-0001-Setup.dct                -       -         -       2018-11-20  d2d3690fc427319de20e0e53fc1b5009
+
+    32122-0001-Setup.do                 -       -         -       2018-11-20  d8f8cdc77046bdfabdcf29e95d98a7f6
+
+    32122-0001-Setup.sas                -       -         -       2018-11-20  6d6bdc02dee65f616cb4e896915eecdd
+
+    32122-0001-Setup.sps                -       -         -       2018-11-20  5cde259422bfee2d5df84682970bb974
+
+    32122-0001-Supplemental_syntax.do   -       -         -       2018-11-20  7fa070556016a491eafda3e821f31e98
+
+    32122-0001-Supplemental_syntax.sas  -       -         -       2018-11-20  0f00f404934bd681a0e805d6deac7101
+
+
+Version History
+
+2018-11-20 The data collection were updated with revised missing values
+provided by the P.I.

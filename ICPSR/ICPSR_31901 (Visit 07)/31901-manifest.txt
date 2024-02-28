@@ -1,0 +1,63 @@
+File Manifest for ICPSR 31901
+
+Sutton-Tyrell, Kim, Faith Selzer, MaryFran R. (Mary Francis Roy) Sowers,
+Joel Finkelstein, Lynda Powell, Ellen B. Gold, Gail Greendale, Gerson
+Weiss, and Karen Matthews. Study of Women's Health Across the Nation
+(SWAN), 2003-2005: Visit 07 Dataset. ICPSR31901-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2018-11-19. http://doi.org/10.3886/ICPSR31901.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    31901-descriptioncitation.pdf       -       -         -       2018-11-19  -
+
+    31901-related_literature.txt        -       -         -       daily       -
+
+    31901-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN), 2003-2005: Visit
+07 Dataset
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    31901-0001-Codebook-ICPSR.pdf       -       -         -       2018-11-19  7fa980c320acb93700f8efd604f8de3f
+
+    31901-0001-Codebook-PI.pdf          -       -         -       2018-11-19  754285cede475b2356ed4b071a668db1
+
+    31901-0001-Data.dta                 -       2,413     1016    2018-11-19  511783973448457c6c27aeab528c549c
+
+    31901-0001-Data.rda                 -       2,413     1016    2018-11-19  0b7ae705cc9e5424131cfe1f00d0042f
+
+    31901-0001-Data.sav                 -       2,413     1016    2018-11-19  80140e4c74d308348374e1b9121e645a
+
+    31901-0001-Data.stc                 -       2,413     1016    2018-11-19  22c440fbbfbb63428f9a3a2cb5f6f5e5
+
+    31901-0001-Data.tsv                 -       2,413     1016    2018-11-19  9eceb54ae6f8ca27c8448b1f4f3b38fb
+
+    31901-0001-Data.txt                 4084    2,413     1016    2018-11-19  610585fae4819681e0d7dff610af8717
+
+    31901-0001-Setup.dct                -       -         -       2018-11-19  5f46297bf98e62608c646abdb79ee049
+
+    31901-0001-Setup.do                 -       -         -       2018-11-19  2f552cfb8df5706a87e9ab1d58b2a402
+
+    31901-0001-Setup.sas                -       -         -       2018-11-19  bc264adfcb29562894037a3c7542b488
+
+    31901-0001-Setup.sps                -       -         -       2018-11-19  224982c6fbbb7eb297d9dc823f8e67d6
+
+    31901-0001-Supplemental_syntax.do   -       -         -       2018-11-19  faf857a140fdb2f920364792fdb76f1d
+
+    31901-0001-Supplemental_syntax.sas  -       -         -       2018-11-19  9064e9b481d7cf0c7ca1607250c24a36
+
+
+Version History
+
+2018-11-19 The data collection was updated with revised missing values
+provided by the P.I.
