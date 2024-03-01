@@ -1,0 +1,63 @@
+File Manifest for ICPSR 32721
+
+Sutton-Tyrell, Kim, Faith Selzer, MaryFran R. (Mary Francis Roy) Sowers,
+Joel Finkelstein, Lynda Powell, Ellen Gold, Gail Greendale, Gerson Weiss,
+Karen Matthews, and Maria Mori Brooks. Study of Women's Health Across the
+Nation (SWAN), 2005-2007: Visit 09 Dataset. ICPSR32721-v2. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2018-11-20. http://doi.org/10.3886/ICPSR32721.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32721-descriptioncitation.pdf       -       -         -       2018-11-20  -
+
+    32721-related_literature.txt        -       -         -       daily       -
+
+    32721-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN), 2005-2007: Visit
+09 Dataset
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    32721-0001-Codebook-ICPSR.pdf       -       -         -       2018-11-20  9538540cf191507e558e7265af14d0e4
+
+    32721-0001-Codebook-PI.pdf          -       -         -       2018-11-20  357218b0444344d3b6a2c5d2a8700355
+
+    32721-0001-Data.dta                 -       2,469     1280    2018-11-20  dd73b8806d9a028db38c5e7e99580bfe
+
+    32721-0001-Data.rda                 -       2,469     1280    2018-11-20  a6bb82203cf808b6431177d314221192
+
+    32721-0001-Data.sav                 -       2,469     1280    2018-11-20  138085c043d8f73e7ef0cb4829e8159e
+
+    32721-0001-Data.stc                 -       2,469     1280    2018-11-20  6d02713d9860f7b272d8416fd6a4ab51
+
+    32721-0001-Data.tsv                 -       2,469     1280    2018-11-20  6d29bb677bffd5a2fcb2bdde5db95dfb
+
+    32721-0001-Data.txt                 5902    2,469     1280    2018-11-20  efbaac979359a2817feb12aa8960d641
+
+    32721-0001-Setup.dct                -       -         -       2018-11-20  10dec7da645d3c9bec2bddecb7ed10b8
+
+    32721-0001-Setup.do                 -       -         -       2018-11-20  63447aec00cb77e6aab2503ae060c4e4
+
+    32721-0001-Setup.sas                -       -         -       2018-11-20  d3b3c84f67151f3a3a57e32ae737deff
+
+    32721-0001-Setup.sps                -       -         -       2018-11-20  d46a7cd73e26a65eeff768076236d1b0
+
+    32721-0001-Supplemental_syntax.do   -       -         -       2018-11-20  30c20a709a6410bddb568bb43df3db35
+
+    32721-0001-Supplemental_syntax.sas  -       -         -       2018-11-20  750870a1588c63e6ddd22d3c9a538428
+
+
+Version History
+
+2018-11-20 The data collection were updated with revised missing values
+provided by the P.I.

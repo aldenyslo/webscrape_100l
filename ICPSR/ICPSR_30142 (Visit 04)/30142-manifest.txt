@@ -1,0 +1,75 @@
+File Manifest for ICPSR 30142
+
+Sutton-Tyrrell, Kim, Faith Selzer, MaryFran, R. (Mary Frances Roy) Sowers,
+Robert Neer, Lynda Powell, Ellen B. Gold, Gail Greendale, Gerson Weiss,
+Karen A. Matthews, and Sonja McKinlay. Study of Women's Health Across the
+Nation (SWAN): Visit 04 Dataset, [United States], 2000-2002. ICPSR30142-v4.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2019-05-15. http://doi.org/10.3886/ICPSR30142.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30142-descriptioncitation.pdf       -       -         -       2019-05-15  -
+
+    30142-related_literature.txt        -       -         -       daily       -
+
+    30142-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN): Visit 04 Dataset,
+[United States], 2000-2002
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30142-0001-Codebook-ICPSR.pdf       -       -         -       2019-05-15  416076e501e21098494366593d869956
+
+    30142-0001-Codebook-PI.pdf          -       -         -       2019-05-15  376fd2e3e587f6252f648970f4f719ef
+
+    30142-0001-Data.dta                 -       2,679     675     2019-05-15  5b190533c7c4244711be4ba4d2fb7797
+
+    30142-0001-Data.rda                 -       2,679     675     2019-05-15  b8b782523513dafe5f56bc5cad5fb77a
+
+    30142-0001-Data.sav                 -       2,679     675     2019-05-15  dde0578441c6ac52cad23dcf5f6f0d2b
+
+    30142-0001-Data.stc                 -       2,679     675     2019-05-15  212d916b24db6e21e0b3925aeeff0c54
+
+    30142-0001-Data.tsv                 -       2,679     675     2019-05-15  1e665775191e96df6feeaec4b3f7cd0c
+
+    30142-0001-Data.txt                 2008    2,679     675     2019-05-15  af0f4f2ffc5c5c4d63c1c1fc574b350e
+
+    30142-0001-Documentation-SWAN_Publications.pdf -       -         -       2019-05-15  00f2539d2b2558bd36794b1b262debc0
+
+    30142-0001-Setup.dct                -       -         -       2019-05-15  eb427e17656c3022573a599085f08605
+
+    30142-0001-Setup.do                 -       -         -       2019-05-15  1623f17a45ffe8c627c34bf05f5007f0
+
+    30142-0001-Setup.sas                -       -         -       2019-05-15  3c757f919dcd5b1259d5e30803274b6f
+
+    30142-0001-Setup.sps                -       -         -       2019-05-15  75b0864219aed55bd03b03379d129ac5
+
+    30142-0001-Supplemental_syntax.do   -       -         -       2019-05-15  ddb61923493d4c936f551b6a525fa742
+
+    30142-0001-Supplemental_syntax.sas  -       -         -       2019-05-15  63341b0c0ebd9d662c3d0c711a73abba
+
+
+Version History
+
+2019-05-15 This data collection has been enhanced in the following ways.
+The title of the study was updated to match current ICPSR standards.
+Variable labels have been revised to spell out abbreviations and acronyms,
+and to correct prior misspellings. The variables in the dataset have also
+been reordered to match the documentation provided by the Principal
+Investigator. A fuller version of the question text pertaining to
+individual variables was completed, and now available in the ICPSR
+codebook. An additional document was included in this release that lists
+all the publications based off of the SWAN data series. Lastly, the study
+is now available for online analysis.  2018-09-24 The data collection was
+updated with revised missing values provided by the P.I.  2014-02-13 This
+data collection is now publicly available.
